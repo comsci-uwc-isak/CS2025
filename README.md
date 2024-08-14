@@ -1,5 +1,5 @@
 
-# UWC ISAK Computer Science 2022
+# UWC ISAK Computer Science 2024
 ![](src/typing.gif)
 
 Welcome! 
@@ -111,7 +111,7 @@ We will use the Integrated Development Editors (IDE) from JetBrains. These are p
 
 1. [Pycharm Edu](https://www.jetbrains.com/pycharm-edu/): Editor for Python
 1. [WebStorm](https://www.jetbrains.com/webstorm/): Editor for Web Development
-2. [Google Colaboratory](https://www.colab.research.google.com): Online Google drive for Coding
+
 
 Procedure to install these tools:
 
